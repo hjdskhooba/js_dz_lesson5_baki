@@ -1,0 +1,18 @@
+.row{
+    margin-left: 100px;
+    max-width: 1500px;
+    flex-wrap: wrap;
+    display: flex;
+}
+h1{
+    margin: 50px 0;
+    text-align: center;
+    font-size: 35px;
+}
+.card{
+    height: 476px;
+    width: 330px;
+}
+.del_btn{
+    margin-left: 138px;
+}
